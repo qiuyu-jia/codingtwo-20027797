@@ -18,7 +18,7 @@ myfile.write(new_words)
 ```
 The translation result is “Challenge”
 original document
-< img src="https://github.com/qiuyu-jia/codingtwo-20027797/blob/main/challenge/one.png" width="600px" height="300px" alt="lab00-01"/>
+![image]（https://github.com/qiuyu-jia/codingtwo-20027797/blob/main/challenge/one.png）
 
 After translation
 ![image]（https://github.com/qiuyu-jia/codingtwo-20027797/blob/main/challenge/one1.png）
