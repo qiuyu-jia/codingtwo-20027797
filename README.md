@@ -14,12 +14,15 @@ The translation result is written to one1.txt
 with open(to_file,"w")as myfile:
 myfile.write(new_words)
 ```
-The translation result is Challenge
+The translation result is “Challenge”
 original document
-![image]（https://github.com/qiuyu-jia/codingtwo-20027797/blob/main/challenge/one.png）
+< img src="https://github.com/qiuyu-jia/codingtwo-20027797/blob/main/challenge/one.png" width="600px" height="300px" alt="lab00-01"/>
+
 After translation
 ![image]（https://github.com/qiuyu-jia/codingtwo-20027797/blob/main/challenge/one1.png）
+
 # Boid
 
 # Scraper
+
 
