@@ -4,24 +4,20 @@ link:https://youtu.be/XjInL2jgQGg
 
 
 # Challenge
-Translate Chinese in one.txt into English by 'translate'
+Translate Chinese in chinese.txt into English by 'translate'
 
 ```
 Translator = Translator(from_lang="chinese",to_lang="english")
-from_file = r'/Users/jiaqiuyu/project/one.txt'
-to_file =r'/Users/jiaqiuyu/project/one1.txt'
+from_file = r'/Users/jiaqiuyu/project/chinese.txt'
+to_file =r'/Users/jiaqiuyu/project/english.txt'
 ````
-The translation result is written to one1.txt
+The translation result is written to english.txt
 ```
 with open(to_file,"w")as myfile:
 myfile.write(new_words)
 ```
-The translation result is “Challenge”
-original document
-![image]（https://github.com/qiuyu-jia/codingtwo-20027797/blob/main/challenge/one.png）
-
-After translation
-![image]（https://github.com/qiuyu-jia/codingtwo-20027797/blob/main/challenge/one1.png）
+chinese.txt content is ‘挑战’
+The translation result is “Challenge” in english.txt
 
 # Boid
 7th second starts:https://youtu.be/XjInL2jgQGg
