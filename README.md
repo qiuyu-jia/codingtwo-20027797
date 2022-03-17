@@ -3,7 +3,7 @@ basic example
 
 
 # Challenge
-Translate Chinese in txt into English by 'translate'
+Translate Chinese in one.txt into English by 'translate'
 
 ```
 Translator = Translator(from_lang="chinese",to_lang="english")
