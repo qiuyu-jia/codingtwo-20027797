@@ -14,7 +14,7 @@ with open(to_file,"w")as myfile:
 myfile.write(new_words)
 ```
 The translation result is Challenge
-
+![screenshot](codingtwo-20027797/blob/main/challenge/one.png)
 # Boid
 
 # Scraper
